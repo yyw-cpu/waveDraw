@@ -1,21 +1,44 @@
-MIT License
+WaveDraw 软件许可协议
 
-Copyright (c) 2026 yyw-cpu
+版权所有 (c) 2025 WaveDraw 开发团队。保留所有权利。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. 定义
+   "软件" 指 WaveDraw 及其相关文档、源代码、二进制文件、安装程序和所有相关材料。
+   "您" 指获得本软件副本的个人或实体。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. 授权许可
+   在遵守本协议条款的前提下，授予您非独占、不可转让、有限的使用、修改和分发本软件的权利。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. 使用限制
+   a) 您不得将本软件用于任何商业目的，除非获得明确的书面授权。
+   b) 您不得移除或修改软件中的任何版权声明、商标或其他知识产权标识。
+   c) 您不得对软件进行反向工程、反编译或反汇编，除非适用法律明确允许。
+   d) 您不得将本软件用于任何违法或侵权活动。
+
+4. 源代码使用
+   a) 您可以查看和学习本软件的源代码。
+   b) 您可以为个人学习、研究目的修改源代码。
+   c) 未经书面许可，您不得将修改后的代码用于商业用途。
+   d) 分发修改后的版本时，必须保留本许可证的所有条款。
+
+5. 商标
+   "WaveDraw" 名称、标识和相关商标均为版权所有者的财产。本许可协议不授予您使用这些商标的权利。
+
+6. 免责声明
+   本软件按"原样"提供，不提供任何明示或暗示的担保，包括但不限于对适销性、特定用途适用性和非侵权性的担保。
+
+7. 责任限制
+   在任何情况下，版权所有者均不对因使用或无法使用本软件而引起的任何损害（包括但不限于利润损失、数据丢失或业务中断）承担责任。
+
+8. 终止
+   如果您违反本协议的任何条款，本许可将自动终止。终止后，您必须销毁所有软件副本。
+
+9. 适用法律
+   本协议受中华人民共和国法律管辖并按其解释。
+
+10. 完整协议
+    本协议构成双方就本软件许可的完整协议，取代所有先前的口头或书面沟通。
+
+如有任何问题，请联系：
+电子邮件：461311426@qq.com
+项目地址：https://github.com/yyw-cpu/WaveDraw
